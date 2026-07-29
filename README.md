@@ -7,7 +7,10 @@
   "live_url": "http://livestream.kgsols.com/push/KeurN/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjY0MTI4OTZf/keurndanane.jpg",
   "categorie": "GENERALISTE"
-  },
+  }
+}
+
+
   "1":{
   "id": "1",
   "name": "DER-TV",
@@ -16,7 +19,6 @@
   "thumbnail": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
   "categorie": "GENERALISTE"
   }
-}
 
 
 
@@ -228,4 +230,4 @@
   "thumbnail": "https://od.lk/s/NDZfODE1NDg4NTlf/shavaxtv.png",
   "categorie": "SPORTS"
   }
-}
+
