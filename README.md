@@ -15,7 +15,11 @@
   "live_url": "https://stream.berosat.live:19360/der-tv/der-tv.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzc3NDIyNjVf/dertv.jpg",
   "categorie": "GENERALISTE"
-  },
+  }
+}
+
+
+
   "2":{
   "id": "2",
   "name": "BALADE MONDE TV",
